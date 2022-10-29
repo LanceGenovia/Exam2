@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exam2</string>
+    <string name="MelonShake">
+        melon shake - Melon shake is another sweet, creamy and refreshing beverage. The procedure is almost the same with the other milkshake. This is basically made of  milk, sugar, cubed ice and melon slices.
+        Melons are not only low in calories and fat, but they are also high in essential vitamins and minerals, and water content.
+    </string>
+    <string name="BlueberryShake">
+        blueberry shake - Blueberry milkshake is made with ice cream, milk, frozen blueberries and iced cubes and is perfect for a hot day.
+        Blueberry has a lot of benefits, They have been shown to protect against heart disease and cancer, and can also help maintain bone strength, mental health, and healthful blood pressure.
+        </string>
+    <string name="StrawberryShake">
+        strawberry shake - strawberry milkshake is a delicious drink made with strawberries, milk, ice cream and flavouring ingredients like vanilla extract or strawberry syrup.
+        Strawberry is also good for the heart, it lowers blood pressure, cholesterol and fight against cancer.
+    </string>
+
+    <string name="MangoShake">
+        mango shake - This the best seller among the milkshakes. It made with mango, milk, cubed ice and sugar.
+        Mango is low in calories yet high in nutrients, particularly in vitamin C, which aids immunity, iron absorption, and cell growth and repair.
+    </string>
+
+</resources>
